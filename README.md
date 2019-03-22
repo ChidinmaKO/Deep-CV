@@ -7,7 +7,7 @@ Computer Vision workshop and practice projects.
 
 
 
-### Why Nyasa?
+#### Why Nyasa?
 This repo was named after a great African lake called <b>[Lake Nyasa](https://en.wikipedia.org/wiki/Lake_Malawi)</b>. It is located in [Malawi](https://en.wikipedia.org/wiki/Malawi) 🇲🇼 (and known to the Malawians as <b>Lake Malawi</b>), in [Mozambique](https://en.wikipedia.org/wiki/Mozambique) 🇲🇿 (and known to the Mozambicans as <b>Lago Niassa</b>) and [Tanzania](https://en.wikipedia.org/wiki/Tanzania) 🇹🇿(as Lake Nyasa).
 
 There are so many interesting things about Lake Nyasa such as, 
